@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2292
     wikipedia: http://en.wikipedia.org/wiki/M._P._Shiel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41794#The-Last-Miracle
 gutenberg_issued: '2013-01-06'
 gutenberg_type: Text
 identifiers:
